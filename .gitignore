@@ -1,0 +1,10 @@
+# Eclipse files 
+.classpath
+.project
+
+# Binary files
+**/*.class
+LearnJavaFX8/build/**
+
+# NetBeans dir
+LearnJavaFX8/nbproject/**
